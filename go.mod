@@ -1,1 +1,1 @@
-module github.com/msalcantara/go3270
+module github.com/will-appbus/go3270
